@@ -5,7 +5,7 @@
 
 ### Acerca de mí
 
-Soy desarrollador de software e interfaces de usuario en entornos industriales 🏭 hace +15 años. Estoy en la búsqueda de empleo como desarrollador frontend por eso estoy trabajando en mi transformación profesional 💻.
+Soy desarrollador de software e interfaces de usuario en entornos industriales 🏭 hace +15 años. Estoy en la búsqueda de empleo como desarrollador frontend, para lo cual estoy trabajando en mi transformación profesional 💻.
 
 ### ¿Qué estuve y estoy haciendo para lograrlo?
 
