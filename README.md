@@ -1,7 +1,6 @@
 ## Hola! 👋 Soy [Nacho](https://www.linkedin.com/in/ignaciofernandezjeansalle/) 👨🏻‍💻
 
-<code>
-<img alt="Logo Gmail" src="./assets/gmail.svg" height="12px" /></code>
+<code><img alt="Logo Gmail" src="./assets/gmail.svg" height="12px" /></code>
 <code>ignaciofj@gmail.com</code>
 
 ### Acerca de mí
