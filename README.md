@@ -1,9 +1,8 @@
 ## Hola! 👋 Soy [Nacho](https://www.linkedin.com/in/ignaciofernandezjeansalle/) 👨🏻‍💻
 
 <code>
-<img alt="Logo Gmail" src="./assets/gmail.svg" height="12px" />
-ignaciofj@gmail.com
-</code>
+<img alt="Logo Gmail" src="./assets/gmail.svg" height="12px" /></code>
+<code>ignaciofj@gmail.com</code>
 
 ### Acerca de mí
 
@@ -29,12 +28,10 @@ Continúo haciendo proyectos y practicando mis habilidades en el desarrollo web.
 
 ### Stack
 
-<code>
-<img alt="Logo HTML5" src="./assets/html5.svg" height="40px" />
-<img alt="Logo CSS3" src="./assets/css.svg" height="40px" />
-<img alt="Logo SASS" src="./assets/sass.svg" height="40px" />
-<img alt="Logo JavaScript" src="./assets/javascript.svg" height="40px" />
-<img alt="Logo Bootstrap" src="./assets/bootstrap.svg" height="40px" />
-<img alt="Logo React" src="./assets/react.svg" height="40px" />
-<img alt="Logo Astro" src="./assets/astro.svg" height="40px" />
-</code>
+<code><img alt="Logo HTML5" src="./assets/html5.svg" height="40px" /></code>
+<code><img alt="Logo CSS3" src="./assets/css.svg" height="40px" /></code>
+<code><img alt="Logo SASS" src="./assets/sass.svg" height="40px" /></code>
+<code><img alt="Logo JavaScript" src="./assets/javascript.svg" height="40px" /></code>
+<code><img alt="Logo Bootstrap" src="./assets/bootstrap.svg" height="40px" /></code>
+<code><img alt="Logo React" src="./assets/react.svg" height="40px" /></code>
+<code><img alt="Logo Astro" src="./assets/astro.svg" height="40px" /></code>
