@@ -20,17 +20,17 @@ Al finalizar la carrera en Coderhouse, me premiaron por ser top 10🔝, con un p
 <code>JavaScript</code>.
 
 <code>2024</code>
-Hice la refactorización del sitio de la escuela de buceo aplicando toda la teoría aprendida sobre semántica, SEO, accesibilidad, etc., utilizando: ASTRO | HTML | SASS | JavaScript | Typescript | Git/Github.
+Hice la refactorización del sitio de la escuela de buceo aplicando toda la teoría aprendida sobre semántica, SEO, accesibilidad, etc., utilizando: ASTRO | HTML | SASS | JavaScript | Typescript.
 
 <code>Date.now()</code>
 Continúo haciendo proyectos y practicando mis habilidades en el desarrollo web.
 
 ### Stack
 
-<code><img alt="Logo HTML5" src="./assets/html5.svg" height="40px" /></code>
-<code><img alt="Logo CSS3" src="./assets/css.svg" height="40px" /></code>
-<code><img alt="Logo SASS" src="./assets/sass.svg" height="40px" /></code>
-<code><img alt="Logo JavaScript" src="./assets/javascript.svg" height="40px" /></code>
-<code><img alt="Logo Bootstrap" src="./assets/bootstrap.svg" height="40px" /></code>
-<code><img alt="Logo React" src="./assets/react.svg" height="40px" /></code>
-<code><img alt="Logo Astro" src="./assets/astro.svg" height="40px" /></code>
+<code><img alt="Logo HTML5" src="./assets/html5.svg" height="30px" /></code>
+<code><img alt="Logo CSS3" src="./assets/css.svg" height="30px" /></code>
+<code><img alt="Logo SASS" src="./assets/sass.svg" height="30px" /></code>
+<code><img alt="Logo JavaScript" src="./assets/javascript.svg" height="30px" /></code>
+<code><img alt="Logo Bootstrap" src="./assets/bootstrap.svg" height="30px" /></code>
+<code><img alt="Logo React" src="./assets/react.svg" height="30px" /></code>
+<code><img alt="Logo Astro" src="./assets/astro.svg" height="30px" /></code>
