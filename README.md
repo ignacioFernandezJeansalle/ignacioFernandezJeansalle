@@ -10,22 +10,22 @@ Soy desarrollador de software e interfaces de usuario en entornos industriales �
 ### ¿Qué estuve y estoy haciendo para lograrlo?
 
 <code>2018</code>
-Hice mi primer proyecto autodidacta frontend, por pura curiosidad. Hice el sitio web de una escuela de buceo utilizando: <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>PHP</code>.
+Hice mi primer proyecto autodidacta frontend, por pura curiosidad. Hice el sitio web de una escuela de buceo utilizando: <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>PHP</code>
 
 <code>2022</code>
 Decidí formarme en Coderhouse como **Desarrollador Frontend React** ➡️ [Certificado](https://www.coderhouse.com/ar/certificados/63ae3137430ba2000ff5d2d0).
 
 <code>2023</code>
 Al finalizar la carrera en Coderhouse, me premiaron por ser top 10🔝, con un proyecto freelance y desarrollé con un equipo de UX/UI y una PM el sitio web de una nutricionista utilizando: <code>HTML</code> <code>CSS</code> <code>Boostrap</code> <code>SASS</code> <code>Boostrap</code>
-<code>JavaScript</code>.
+<code>JavaScript</code>
 
 <code>2024</code>
-Hice la refactorización del sitio de la escuela de buceo aplicando toda la teoría aprendida sobre semántica, SEO, accesibilidad, etc., utilizando: ASTRO | HTML | SASS | JavaScript | Typescript.
+Hice la refactorización del sitio de la escuela de buceo aplicando toda la teoría aprendida sobre semántica, SEO, accesibilidad, etc., utilizando: <code>ASTRO</code> <code>HTML</code> <code>SASS</code> <code>JavaScript</code> <code>Typescript</code>
 
 <code>Date.now()</code>
 Continúo haciendo proyectos y practicando mis habilidades en el desarrollo web.
 
-### Stack
+---
 
 <code><img alt="Logo HTML5" src="./assets/html5.svg" height="30px" /></code>
 <code><img alt="Logo CSS3" src="./assets/css.svg" height="30px" /></code>
@@ -34,3 +34,5 @@ Continúo haciendo proyectos y practicando mis habilidades en el desarrollo web.
 <code><img alt="Logo Bootstrap" src="./assets/bootstrap.svg" height="30px" /></code>
 <code><img alt="Logo React" src="./assets/react.svg" height="30px" /></code>
 <code><img alt="Logo Astro" src="./assets/astro.svg" height="30px" /></code>
+
+![Nacho's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ignacioFernandezJeansalle&show_icons=true&locale=es&layout=compact)
