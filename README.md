@@ -25,11 +25,12 @@ Soy desarrollador de software e interfaces de usuario en entornos industriales �
 
 - Hice la refactorización del sitio de la escuela de buceo aplicando toda la teoría aprendida sobre semántica, SEO, accesibilidad, etc., utilizando: <code>ASTRO</code> <code>HTML</code> <code>SASS</code> <code>JavaScript</code> <code>Typescript</code> <br />
 - Hice la certificación en **Desarrollo Back End y APIs** de _freeCodeCamp_ ➡️ [Certificado](https://www.freecodecamp.org/certification/ignacio-fj-dev/back-end-development-and-apis).
+- Hice la certificación en **Full Stack** de _Full Stack Open_ ➡️ [Certificado](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/469f8d487b2149b39c2f4cf2cc7f8ca0).
 
 <code>Date.now()</code><br />
 
 - Continúo haciendo proyectos y practicando mis habilidades en el desarrollo web.
-- Estoy haciendo el curso de **Full Stack** de _Full Stack Open_.
+- Estoy haciendo el curso de **TypeScript** de _Full Stack Open_.
 
 ---
 
