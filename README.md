@@ -30,7 +30,6 @@ Soy desarrollador de software e interfaces de usuario en entornos industriales ð
 <code>Date.now()</code><br />
 
 - ContinÃºo haciendo proyectos y practicando mis habilidades en el desarrollo web.
-- Estoy haciendo el curso de **TypeScript** de _Full Stack Open_.
 
 ---
 
@@ -44,5 +43,6 @@ Soy desarrollador de software e interfaces de usuario en entornos industriales ð
 <code><img alt="Logo Node.js" src="./assets/nodejs.svg" height="30px" /></code>
 <code><img alt="Logo Express" src="./assets/express.svg" height="30px" /></code>
 <code><img alt="Logo MongoDB" src="./assets/mongodb.svg" height="30px" /></code>
+<code><img alt="Logo PHP" src="./assets/php_dark.svg" height="30px" /></code>
 
 ![Nacho's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ignacioFernandezJeansalle&show_icons=true&locale=es&layout=compact)
